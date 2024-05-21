@@ -1,2 +1,2 @@
-# codsoft-task_1
-task
+# CODSOFT
+LANDING PAGE
